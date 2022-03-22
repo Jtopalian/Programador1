@@ -1,4 +1,8 @@
 h2{color: black;
+    border: solid slategray;
+            padding: 5px;
+            border-radius: 15px;
+            background: burlywood;
 }
 li{
     color: black;
