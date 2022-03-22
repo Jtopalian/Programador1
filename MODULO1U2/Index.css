@@ -1,0 +1,28 @@
+h2{color: black;
+}
+li{
+    color: black;
+}
+.destacados{
+    color: red;
+    font-weight: 700;
+}
+#Pagina{
+    background-color: darkgrey;
+    border: solid 1px black;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px;
+}
+img{
+    filter: grayscale(100%);
+}
+
+img:hover{
+    filter: grayscale(0%);
+}
+
+a:hover{
+    color: blue;
+    font-size: 19px;
+}
